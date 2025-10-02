@@ -28,10 +28,7 @@ ESTRUTURA:
 
 ---------------------------
 
-
-<img src="caio.jpeg">
-<img src="davi.jpeg">
-<img src="guilherme.jpeg">
+<img src="http://localhost:5173/imagens/guilherme.jpeg" width="700px" />
 
 ---------------------------
 
