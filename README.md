@@ -1,3 +1,55 @@
+Integrantes : 
+Guilherme Batista Cintra RM 562850
+Davi Tagawa Schincaglia Lima Lemos RM 563457
+Caio Felipe Silva RM 564615
+
+ESTRUTURA: 
+├── node_modules/
+├── public/
+│   ├── imagens/
+│   └── vite.svg
+├── src/
+│   ├── assets/
+│   ├── components/
+│   ├── pages/
+│   ├── App.tsx
+│   ├── index.css
+│   ├── main.tsx
+├── .gitignore
+├── eslint.config.js
+├── index.html
+├── package-lock.json
+├── package.json
+├── README.md
+├── tsconfig.app.json
+├── tsconfig.json
+├── tsconfig.node.json
+└── vite.config.ts
+
+---------------------------
+
+
+<img src="caio.jpeg">
+<img src="davi.jpeg">
+<img src="guilherme.jpeg">
+
+---------------------------
+
+https://github.com/guicintraa/projetoHcChallenge
+
+
+---------------------------
+
+TECNOLOGIAS USADAS :
+- GIT / GIT HUB
+- REACT 
+- TYPE SCRIPT
+- TAILWIND
+----------------------------
+
+LINK DA APRESENTAÇÃO DO TRABALHO : https://youtu.be/5z2zlCpdpsg
+
+---------------------------
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
