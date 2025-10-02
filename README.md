@@ -29,10 +29,10 @@ ESTRUTURA:
 ---------------------------
 
 
-<img src="caio.jpeg">
+[<img src="caio.jpeg">
 <img src="davi.jpeg">
 <img src="guilherme.jpeg">
-
+](https://github.com/guicintraa/projetoHcChallenge/issues/15)
 ---------------------------
 
 https://github.com/guicintraa/projetoHcChallenge
