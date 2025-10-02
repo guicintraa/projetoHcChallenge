@@ -1,11 +1,11 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
-import NavMenu from "./components/NavMenu";
+import NavMenu from "./components/navMenu";
 import Home from "./pages/Home";
-import Integrantes from "./pages/Integrantes";
+import Integrantes from "./pages/integrantes";
 import FAQ from "./pages/FAQ";
-import Contato from "./pages/Contato";
+import Contato from "./pages/contato";
 
 export default function App() {
   return (
